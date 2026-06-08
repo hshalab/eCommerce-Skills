@@ -109,13 +109,12 @@ SEO-optimized product descriptions for any platform — Amazon, eBay, Walmart, S
 
 
 
-### 🚀 Growth & Expansion (15 skills)
+### 🚀 Growth & Expansion (16 skills)
 
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [ecommerce-growth-strategy](./ecommerce-growth-strategy) | Strategic growth advisor — unit economics, Ansoff Matrix, 5 growth levers, 90-day roadmap. | ✅ Available |
 | [cross-border-ecommerce](./cross-border-ecommerce) | Cross-border expansion — market scoring, logistics comparison, VAT/IOSS/GST compliance, payment localization, cultural adaptation. | ✅ Available |
-| [tiktok-shop-cross-border](./tiktok-shop-cross-border) | Cross-border selling on TikTok Shop — market selection, logistics, localization, compliance. | 🔶 Beta |
 | [brand-protection-amazon](./brand-protection/brand-protection-amazon) | Amazon brand protection — hijackers, counterfeits, MAP violations, Brand Registry. | ✅ Available |
 | [brand-protection-ebay](./brand-protection/brand-protection-ebay) | eBay brand protection — unauthorized sellers, counterfeits, VeRO complaints. | ✅ Available |
 | [brand-protection-shopify](./brand-protection/brand-protection-shopify) | Shopify/DTC brand protection — counterfeit stores, DMCA takedowns, domain monitoring. | ✅ Available |
@@ -125,6 +124,7 @@ SEO-optimized product descriptions for any platform — Amazon, eBay, Walmart, S
 | [product-differentiation-ebay](./product-differentiation/product-differentiation-ebay) | eBay differentiation — competitor analysis, listing gaps, unique selling points. | ✅ Available |
 | [product-differentiation-shopify](./product-differentiation/product-differentiation-shopify) | Shopify/DTC differentiation — competitor weaknesses, market positioning, brand strategy. | ✅ Available |
 | [product-differentiation-tiktok](./product-differentiation/product-differentiation-tiktok) | TikTok Shop differentiation — viral product analysis, trend gaps, content angles. | ✅ Available |
+| [tiktok-shop-cross-border](./tiktok-shop-cross-border) | Cross-border selling on TikTok Shop — market selection, logistics, localization, compliance. | 🔶 Beta |
 | [ecommerce-personalization](./ecommerce-personalization) | Personalization — recommendations, dynamic content, customer segmentation. | 🔶 Beta |
 | [ecommerce-business-plan](./ecommerce-business-plan) | E-commerce business plan — market analysis, financial projections, milestone roadmap. | 🔶 Beta |
 | [omnichannel-ecommerce](./omnichannel-ecommerce) | Omnichannel strategy — channel selection, inventory sync, unified branding. | 🔶 Beta |
@@ -160,13 +160,13 @@ SEO-optimized product descriptions for any platform — Amazon, eBay, Walmart, S
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [product-description-generator](./product-description-generator) | Product descriptions for any platform — Amazon, eBay, Walmart, Shopify, Etsy, TikTok Shop. | ✅ Available |
+| [etsy-seo](./etsy-seo) | Etsy SEO analyzer — title optimization, tag analysis, description scoring, SEO scoring. | ✅ Available |
 | [product-title-optimization](./product-title-optimization) | Product title optimization — platform-specific rules, keyword placement, CTR improvement. | 🔶 Beta |
 | [walmart-listing-optimization](./walmart-listing-optimization) | Walmart listing optimization — Content Quality Score, search, rich media, attributes. | 🔶 Beta |
 | [product-page-seo](./product-page-seo) | Product page SEO — structured data, page speed, mobile optimization, content enrichment. | 🔶 Beta |
 | [ebay-seo](./ebay-seo) | eBay Cassini SEO — titles, item specifics, category selection, seller performance. | 🔶 Beta |
 | [shopify-seo](./shopify-seo) | Shopify SEO — technical audit, product/collection pages, blog, schema, internal linking. | 🔶 Beta |
 | [woocommerce-seo](./woocommerce-seo) | WooCommerce SEO — technical audit, product pages, schema markup, site speed, content. | 🔶 Beta |
-| [etsy-seo](./etsy-seo) | Etsy SEO analyzer — title optimization, tag analysis, description scoring, SEO scoring. | ✅ Available |
 
 
 
