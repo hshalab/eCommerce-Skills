@@ -82,7 +82,7 @@ SEO-optimized product descriptions for any platform — Amazon, eBay, Walmart, S
 
 **Status key:** ✅ Available (production-ready) · 🔶 Beta (functional, being improved)
 
-### 🕵️ Competitor Analysis (9 skills)
+### 🕵️ Competitor Analysis (6 skills)
 
 | Skill | Description | Status |
 |-------|-------------|--------|
