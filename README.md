@@ -82,16 +82,16 @@ SEO-optimized product descriptions for any platform — Amazon, eBay, Walmart, S
 
 **Status key:** ✅ Available (production-ready) · 🔶 Beta (functional, being improved)
 
-### 🕵️ Competitor Analysis (6 skills)
+### 🕵️ Competitor Analysis (9 skills)
 
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [amazon-review-checker](./review-checker/amazon-review-checker) | Amazon review authenticity — fake reviews, time clustering, verified purchase validation. | ✅ Available |
 | [ebay-review-checker](./review-checker/ebay-review-checker) | eBay review authenticity — fake feedback, suspicious patterns, buyer manipulation. | ✅ Available |
 | [walmart-review-checker](./review-checker/walmart-review-checker) | Walmart review authenticity — fake reviews, WFS verified badge analysis, red flags. | ✅ Available |
-| [competitor-price-analysis](./competitor-price-analysis) | Competitor pricing strategy analysis — price mapping, gaps, elasticity signals. | 🔶 Beta |
-| [ecommerce-competitor-analysis](./ecommerce-competitor-analysis) | Cross-platform competitor analysis — multi-channel presence, strategy, positioning. | 🔶 Beta |
-| [product-review-analysis](./product-review-analysis) | Product review analysis — pain points, praise patterns, feature requests, sentiment. | 🔶 Beta |
+| [competitor-price-analysis](./competitor-price-analysis) | Competitor pricing strategy analysis — price mapping, gaps, elasticity signals. | ✅ Available |
+| [ecommerce-competitor-analysis](./ecommerce-competitor-analysis) | Cross-platform competitor analysis — multi-channel presence, strategy, positioning. | ✅ Available |
+| [product-review-analysis](./product-review-analysis) | Product review analysis — pain points, praise patterns, feature requests, sentiment. | ✅ Available |
 
 
 
